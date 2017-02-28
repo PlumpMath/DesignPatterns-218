@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Abstract.Factory", "Creational.Abstract.Factory\Creational.Abstract.Factory.csproj", "{6B186CE5-A299-4586-A02B-2795F8E4652C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Abstract.Builder", "Creational.Abstract.Builder\Creational.Abstract.Builder.csproj", "{2233FBE1-E3D7-4BC6-BA27-B4BFC00E7472}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Builder", "Creational.Builder\Creational.Builder.csproj", "{2233FBE1-E3D7-4BC6-BA27-B4BFC00E7472}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Abstract.Factory.Method", "Creational.Abstract.Factory.Method\Creational.Abstract.Factory.Method.csproj", "{ECF44A05-1FFC-43A0-8E7F-74A15FB3D2F6}"
 EndProject
