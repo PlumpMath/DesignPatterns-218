@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Abstract.Factory
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Builder", "Creational.Builder\Creational.Builder.csproj", "{2233FBE1-E3D7-4BC6-BA27-B4BFC00E7472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Abstract.Factory.Method", "Creational.Abstract.Factory.Method\Creational.Abstract.Factory.Method.csproj", "{ECF44A05-1FFC-43A0-8E7F-74A15FB3D2F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational.Factory.Method", "Creational.Factory.Method\Creational.Factory.Method.csproj", "{ECF44A05-1FFC-43A0-8E7F-74A15FB3D2F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
