@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Creational.Singleton {
     class Program {
         static void Main(string[] args) {
+            // KEMAL ÖZTÜRK
         }
     }
 }
