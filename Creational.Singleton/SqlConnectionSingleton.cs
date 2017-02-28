@@ -5,10 +5,8 @@ namespace Creational.Singleton {
     public class SqlConnectionSingleton {
         private static volatile SqlConnection connection;
         private static object syncRoot = new Object();
-        private static Guid HashCode;
-
+      
         private SqlConnectionSingleton() {
-            HashCode = Guid.NewGuid();
         }
 
         public static SqlConnection Connection {
@@ -21,10 +19,6 @@ namespace Creational.Singleton {
                 }
                 return connection;
             }
-        }
-
-        public string GetString() {
-            return HashCode.ToString();
         }
     }
 }
