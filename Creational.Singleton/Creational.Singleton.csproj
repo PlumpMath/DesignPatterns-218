@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SqlConnectionLocalSingleton.cs" />
+    <Compile Include="SqlConnectionServerSingleton.cs" />
     <Compile Include="SqlConnectionSingleton.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
