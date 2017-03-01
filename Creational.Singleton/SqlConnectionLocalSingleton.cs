@@ -7,6 +7,7 @@ namespace Creational.Singleton {
         private static object syncRoot = new Object();
 
         private SqlConnectionLocalSingleton() {
+
         }
 
         public static SqlConnection Connection {

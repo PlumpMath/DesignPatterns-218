@@ -15,6 +15,7 @@ namespace Creational.Singleton {
             System.Data.SqlClient.SqlConnection connectionLocal = SqlConnectionLocalSingleton.Connection;
             Console.WriteLine("Connection Local  : {0}", connectionLocal.GetHashCode());
             Console.Read();
+            
         }
     }
 }
